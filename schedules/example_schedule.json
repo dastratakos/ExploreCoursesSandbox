@@ -1,0 +1,208 @@
+{
+  "major": "Computer Science",
+  "start_term": "2018-2019 Autumn",
+  "schedule": {
+    "2018-2019 Autumn": {
+      "courses": [
+        {
+          "subject": "CS",
+          "code": "45N",
+          "title": "Computers and Photography",
+          "units_max": 4
+        },
+        {
+          "subject": "CS",
+          "code": "106B",
+          "title": "Programming Abstractions",
+          "units_max": 5
+        },
+        {
+          "subject": "PWR",
+          "code": "1SBB",
+          "title": "Writing & Rhetoric 1: The Rhetoric of Robots, Cyborgs, Mutants, and Other Posthumans",
+          "units_max": 4
+        },
+        {
+          "subject": "UAR",
+          "code": "56",
+          "title": "Building a Successful Academic Career",
+          "units_max": 1
+        },
+        {
+          "subject": "VPTL",
+          "code": "1",
+          "title": "Introduction to Computing at Stanford",
+          "units_max": 1
+        }
+      ]
+    },
+    "2018-2019 Winter": {
+      "courses": [
+        {
+          "subject": "AA",
+          "code": "115N",
+          "title": "The Global Positioning System: Where on Earth Are We, and What Time Is It?",
+          "units_max": 3
+        },
+        {
+          "subject": "ATHLETIC",
+          "code": "42",
+          "title": "Varsity - Tennis (Men)",
+          "units_max": 2
+        },
+        {
+          "subject": "CME",
+          "code": "500",
+          "title": "Departmental Seminar",
+          "units_max": 1
+        },
+        {
+          "subject": "CS",
+          "code": "107",
+          "title": "Computer Organization and Systems",
+          "units_max": 5
+        },
+        {
+          "subject": "MATH",
+          "code": "51",
+          "title": "Linear Algebra, Multivariable Calculus, and Modern Applications",
+          "units_max": 5
+        },
+        {
+          "subject": "THINK",
+          "code": "66",
+          "title": "Design That Understands Us",
+          "units_max": 5
+        }
+      ]
+    },
+    "2018-2019 Spring": {
+      "courses": [
+        {
+          "subject": "CS",
+          "code": "109",
+          "title": "Introduction to Probability for Computer Scientists",
+          "units_max": 5
+        },
+        {
+          "subject": "CS",
+          "code": "193Q",
+          "title": "Introduction to Python Programming",
+          "units_max": 1
+        },
+        {
+          "subject": "ECON",
+          "code": "1",
+          "title": "Principles of Economics",
+          "units_max": 5
+        },
+        {
+          "subject": "GERMAN",
+          "code": "88",
+          "title": "Germany in 5 words",
+          "units_max": 5
+        }
+      ]
+    },
+    "2018-2019 Summer": {
+      "courses": [
+        {
+          "subject": "MATSCI",
+          "code": "13SC",
+          "title": "Science of the Impossible",
+          "units_max": 2
+        }
+      ]
+    },
+    "2019-2020 Autumn": {
+      "courses": [
+        {
+          "subject": "ATHLETIC",
+          "code": "42",
+          "title": "Varsity - Tennis (Men)",
+          "units_max": 2
+        },
+        {
+          "subject": "CS",
+          "code": "103",
+          "title": "Mathematical Foundations of Computing",
+          "units_max": 5
+        },
+        {
+          "subject": "CS",
+          "code": "221",
+          "title": "Artificial Intelligence: Principles and Techniques",
+          "units_max": 4
+        },
+        {
+          "subject": "PWR",
+          "code": "2KSB",
+          "title": "Writing & Rhetoric 2: Design Thinking: Bringing D.Thinking to Research, Writing & Presentataion",
+          "units_max": 5
+        }
+      ]
+    },
+    "2019-2020 Winter": {
+      "courses": [
+        {
+          "subject": "CS",
+          "code": "22A",
+          "title": "The Social & Economic Impact of Artificial Intelligence",
+          "units_max": 1
+        },
+        {
+          "subject": "CS",
+          "code": "161",
+          "title": "Design and Analysis of Algorithms",
+          "units_max": 5
+        },
+        {
+          "subject": "CS",
+          "code": "224N",
+          "title": "Natural Language Processing with Deep Learning",
+          "units_max": 4
+        },
+        {
+          "subject": "ENGR",
+          "code": "40M",
+          "title": "An Intro to Making: What is EE",
+          "units_max": 5
+        }
+      ]
+    },
+    "2019-2020 Spring": {
+      "courses": [
+        {
+          "subject": "CS",
+          "code": "110",
+          "title": "Principles of Computer Systems",
+          "units_max": 5
+        },
+        {
+          "subject": "CS",
+          "code": "142",
+          "title": "Web Applications",
+          "units_max": 3
+        },
+        {
+          "subject": "CS",
+          "code": "278",
+          "title": "Social Computing",
+          "units_max": 3
+        },
+        {
+          "subject": "ECON",
+          "code": "43",
+          "title": "Introduction to Financial Decision-Making",
+          "units_max": 4
+        },
+        {
+          "subject": "JAPANLNG",
+          "code": "1",
+          "title": "First-Year Japanese Language, Culture, and Communication, First Quarter",
+          "units_max": 5
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "GERs": {
+
+  },
+  "School of Engineering": {
+    "Math": {
+      "Calclulus": [
+        "MATH 19",
+        "MATH 20",
+        "MATH 21",
+        "MATH 41",
+        "MATH 42",
+        "AP Credit"
+      ],
+      "Mathematics in Computer Science": [
+        "CS 103",
+        "CS 109"
+      ],
+      "Math Electives": [
+        "Two additional math electives"
+      ]
+    }
+  },
+  "Tracks": [
+    "Artificial Intelligence track",
+    "Biocomputation track",
+    "Computer Engineering track",
+    "Graphics track",
+    "Human-Computer Interaction track",
+    "Information track",
+    "Systems track",
+    "Theory track",
+    "Unspecialized track",
+    "Individually Designed track"
+  ]
+}

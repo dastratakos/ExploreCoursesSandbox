@@ -1,0 +1,523 @@
+<course>
+    <year>2021-2022</year>
+    <subject>ME</subject>
+    <code>104B</code>
+    <title>Designing Your Life</title>
+    <description>This course applies the mindsets and innovation principles of design thinking to the &amp;quot;wicked problem&amp;quot; of designing your life and vocation. The course introduces design thinking processes through application: students practice awareness and empathy, define areas of life and work on which hey want to work, ideate about ways to move forward, try small prototypes, and test their assumptions. The course is highly interactive. The course will include brief readings, writing, reflections, and in-class exercises. Expect to practice ideation and prototyping methodologies, decision making practices and to participate in hands on activities in pairs, trios, and small groups. Also includes roleplaying, assigned conversations with off campus professionals, guest speakers, and individual mentoring and coaching. It will conclude with creation of 3 versions of the next 5 years and prototype ideas to begin making those futures a reality.  Open to juniors, seniors and 5th year coterms, all majors. All enrolled and waitlisted students should attend class on day 1 for admission. Additional course information at http://www.designingyourlife.org.</description>
+    <gers></gers>
+    <repeatable>false</repeatable>
+    <grading>Satisfactory/No Credit</grading>
+    <unitsMin>2</unitsMin>
+    <unitsMax>2</unitsMax>
+    <remote>false</remote>
+    <learningObjectives>
+        
+    </learningObjectives>
+    <sections>
+        
+            <section>
+                <classId>16682</classId>
+                <term>2021-2022 Autumn</term>
+                <termId>1222</termId>
+                <subject>ME</subject>
+                <code>104B</code>
+                <units>2</units>
+                <sectionNumber>01</sectionNumber>
+                <component>SEM</component>
+                <numEnrolled>24</numEnrolled>
+                <maxEnrolled>30</maxEnrolled>
+                <numWaitlist>0</numWaitlist>
+                <maxWaitlist>50</maxWaitlist>
+                <enrollStatus>Open</enrollStatus>
+                <addConsent>N</addConsent>
+                <dropConsent>N</dropConsent>
+                <instructionMode>P</instructionMode>
+                <courseId>210741</courseId>
+                <schedules>
+                    
+                        <schedule>
+                            
+                            <startDate>Sep 20, 2021</startDate>
+                            <endDate>Dec 3, 2021</endDate>
+                            <startTime>9:45:00 AM</startTime>
+                            <endTime>11:45:00 AM</endTime>
+                            <location>Departmental Room</location>
+                            <days>
+                                
+                                
+                                
+                                
+                                
+                                Friday
+                                
+                            </days>
+                            <instructors>
+                                
+                                    <instructor>
+                                        <name>Davies, K.</name>
+                                        <firstName>Kathleen</firstName>
+                                        <middleName>Hannon</middleName>
+                                        <lastName>Davies</lastName>
+                                        <sunet>kahannon</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Armstrong, J.</name>
+                                        <firstName>John</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Armstrong</lastName>
+                                        <sunet>jrarmstr</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Venkatesh, U.</name>
+                                        <firstName>Urmila</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Venkatesh</lastName>
+                                        <sunet>urmilav</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Simamora, C.</name>
+                                        <firstName>Christian</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Simamora</lastName>
+                                        <sunet>simamora</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Webb, S.</name>
+                                        <firstName>Shanice</firstName>
+                                        <middleName>C.</middleName>
+                                        <lastName>Webb</lastName>
+                                        <sunet>swebb2</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                            </instructors>
+                        </schedule>
+                    
+                </schedules>
+                <currentClassSize>24</currentClassSize>
+                <maxClassSize>30</maxClassSize>
+                <currentWaitlistSize>0</currentWaitlistSize>
+                <maxWaitlistSize>50</maxWaitlistSize>
+                <notes>All students interested in the course should attend the first day of class.</notes>
+                <attributes>
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>SPR</value>
+                                <description>Spring</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>WIN</value>
+                                <description>Winter</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>SUM</value>
+                                <description>Summer</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>AUT</value>
+                                <description>Autumn</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                </attributes>
+            </section>
+        
+            <section>
+                <classId>7539</classId>
+                <term>2021-2022 Winter</term>
+                <termId>1224</termId>
+                <subject>ME</subject>
+                <code>104B</code>
+                <units>2</units>
+                <sectionNumber>01</sectionNumber>
+                <component>SEM</component>
+                <numEnrolled>53</numEnrolled>
+                <maxEnrolled>100</maxEnrolled>
+                <numWaitlist>0</numWaitlist>
+                <maxWaitlist>0</maxWaitlist>
+                <enrollStatus>Open</enrollStatus>
+                <addConsent>N</addConsent>
+                <dropConsent>N</dropConsent>
+                <instructionMode>P</instructionMode>
+                <courseId>210741</courseId>
+                <schedules>
+                    
+                        <schedule>
+                            
+                            <startDate>Jan 3, 2022</startDate>
+                            <endDate>Mar 11, 2022</endDate>
+                            <startTime>9:45:00 AM</startTime>
+                            <endTime>11:45:00 AM</endTime>
+                            <location>550-200</location>
+                            <days>
+                                
+                                
+                                
+                                
+                                
+                                Friday
+                                
+                            </days>
+                            <instructors>
+                                
+                                    <instructor>
+                                        <name>Davies, K.</name>
+                                        <firstName>Kathleen</firstName>
+                                        <middleName>Hannon</middleName>
+                                        <lastName>Davies</lastName>
+                                        <sunet>kahannon</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Armstrong, J.</name>
+                                        <firstName>John</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Armstrong</lastName>
+                                        <sunet>jrarmstr</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Venkatesh, U.</name>
+                                        <firstName>Urmila</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Venkatesh</lastName>
+                                        <sunet>urmilav</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Simamora, C.</name>
+                                        <firstName>Christian</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Simamora</lastName>
+                                        <sunet>simamora</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Webb, S.</name>
+                                        <firstName>Shanice</firstName>
+                                        <middleName>C.</middleName>
+                                        <lastName>Webb</lastName>
+                                        <sunet>swebb2</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                            </instructors>
+                        </schedule>
+                    
+                </schedules>
+                <currentClassSize>53</currentClassSize>
+                <maxClassSize>100</maxClassSize>
+                <currentWaitlistSize>0</currentWaitlistSize>
+                <maxWaitlistSize>0</maxWaitlistSize>
+                <notes>All students interested in the course (including waitlisted students) should attend the first day of class.</notes>
+                <attributes>
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>SPR</value>
+                                <description>Spring</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>WIN</value>
+                                <description>Winter</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>SUM</value>
+                                <description>Summer</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>AUT</value>
+                                <description>Autumn</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                </attributes>
+            </section>
+        
+            <section>
+                <classId>3473</classId>
+                <term>2021-2022 Spring</term>
+                <termId>1226</termId>
+                <subject>ME</subject>
+                <code>104B</code>
+                <units>2</units>
+                <sectionNumber>01</sectionNumber>
+                <component>SEM</component>
+                <numEnrolled>74</numEnrolled>
+                <maxEnrolled>100</maxEnrolled>
+                <numWaitlist>0</numWaitlist>
+                <maxWaitlist>50</maxWaitlist>
+                <enrollStatus>Open</enrollStatus>
+                <addConsent>N</addConsent>
+                <dropConsent>N</dropConsent>
+                <instructionMode>P</instructionMode>
+                <courseId>210741</courseId>
+                <schedules>
+                    
+                        <schedule>
+                            
+                            <startDate>Mar 28, 2022</startDate>
+                            <endDate>Jun 1, 2022</endDate>
+                            <startTime>11:00:00 AM</startTime>
+                            <endTime>1:00:00 PM</endTime>
+                            <location>550-200</location>
+                            <days>
+                                
+                                
+                                
+                                
+                                
+                                Friday
+                                
+                            </days>
+                            <instructors>
+                                
+                                    <instructor>
+                                        <name>Burnett, W.</name>
+                                        <firstName>William</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Burnett</lastName>
+                                        <sunet>wburnett</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Davies, K.</name>
+                                        <firstName>Kathleen</firstName>
+                                        <middleName>Hannon</middleName>
+                                        <lastName>Davies</lastName>
+                                        <sunet>kahannon</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Armstrong, J.</name>
+                                        <firstName>John</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Armstrong</lastName>
+                                        <sunet>jrarmstr</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Venkatesh, U.</name>
+                                        <firstName>Urmila</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Venkatesh</lastName>
+                                        <sunet>urmilav</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Simamora, C.</name>
+                                        <firstName>Christian</firstName>
+                                        <middleName></middleName>
+                                        <lastName>Simamora</lastName>
+                                        <sunet>simamora</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                                    <instructor>
+                                        <name>Webb, S.</name>
+                                        <firstName>Shanice</firstName>
+                                        <middleName>C.</middleName>
+                                        <lastName>Webb</lastName>
+                                        <sunet>swebb2</sunet>
+                                        <role>PI</role>
+                                    </instructor>
+                                
+                            </instructors>
+                        </schedule>
+                    
+                </schedules>
+                <currentClassSize>74</currentClassSize>
+                <maxClassSize>100</maxClassSize>
+                <currentWaitlistSize>0</currentWaitlistSize>
+                <maxWaitlistSize>50</maxWaitlistSize>
+                <notes>All interested students (including waitlisted) should attend the first day of class.</notes>
+                <attributes>
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>SPR</value>
+                                <description>Spring</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>WIN</value>
+                                <description>Winter</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>SUM</value>
+                                <description>Summer</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                        
+                            <attribute>
+                                <name>NQTR</name>
+                                <value>AUT</value>
+                                <description>Autumn</description>
+                                <catalogPrint>true</catalogPrint>
+                                <schedulePrint>false</schedulePrint>
+                            </attribute>
+                        
+                    
+                </attributes>
+            </section>
+        
+    </sections>
+    <administrativeInformation>
+        <courseId>210741</courseId>
+        <effectiveStatus>A</effectiveStatus>
+        <offerNumber>1</offerNumber>
+        <academicGroup>ENGR</academicGroup>
+        <academicOrganization>MECHENGR</academicOrganization>
+        <academicCareer>UG</academicCareer>
+        <finalExamFlag>N</finalExamFlag>
+        <catalogPrint>Y</catalogPrint>
+        <schedulePrint>Y</schedulePrint>
+        <maxUnitsRepeat>2</maxUnitsRepeat>
+        <maxTimesRepeat>1</maxTimesRepeat>
+    </administrativeInformation>
+    <attributes>
+        
+            
+                <attribute>
+                    <name>NQTR</name>
+                    <value>SPR</value>
+                    <description>Spring</description>
+                    <catalogPrint>true</catalogPrint>
+                    <schedulePrint>false</schedulePrint>
+                </attribute>
+            
+        
+            
+                <attribute>
+                    <name>NQTR</name>
+                    <value>WIN</value>
+                    <description>Winter</description>
+                    <catalogPrint>true</catalogPrint>
+                    <schedulePrint>false</schedulePrint>
+                </attribute>
+            
+        
+            
+                <attribute>
+                    <name>NQTR</name>
+                    <value>SUM</value>
+                    <description>Summer</description>
+                    <catalogPrint>true</catalogPrint>
+                    <schedulePrint>false</schedulePrint>
+                </attribute>
+            
+        
+            
+                <attribute>
+                    <name>NQTR</name>
+                    <value>AUT</value>
+                    <description>Autumn</description>
+                    <catalogPrint>true</catalogPrint>
+                    <schedulePrint>false</schedulePrint>
+                </attribute>
+            
+        
+    </attributes>
+    <tags>
+        
+        <tag>
+            <organization>REGISTRAR</organization>
+            <name>training</name>
+        </tag>
+        
+        <tag>
+            <organization>EDUC</organization>
+            <name>alluniversityabove100</name>
+        </tag>
+        
+        <tag>
+            <organization>EDUC</organization>
+            <name>alluniversity</name>
+        </tag>
+        
+        <tag>
+            <organization>ARTINST</organization>
+            <name>ccguide</name>
+        </tag>
+        
+        <tag>
+            <organization>ARTINST</organization>
+            <name>PDCert</name>
+        </tag>
+        
+    </tags>
+</course>

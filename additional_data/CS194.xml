@@ -1,0 +1,295 @@
+<course>
+    <year>2021-2022</year>
+    <subject>CS</subject>
+    <code>194W</code>
+    <title>Software Project (WIM)</title>
+    <description>Restricted to Computer Science and Electrical Engineering undergraduates.  Writing-intensive version of CS194. Preference given to seniors. Prerequisites: CS109 and CS161.</description>
+    <gers></gers>
+    <repeatable>false</repeatable>
+    <grading>Letter (ABCD/NP)</grading>
+    <unitsMin>3</unitsMin>
+    <unitsMax>3</unitsMax>
+    <remote>false</remote>
+    <learningObjectives>
+
+    </learningObjectives>
+    <sections>
+
+        <section>
+            <classId>7183</classId>
+            <term>2021-2022 Winter</term>
+            <termId>1224</termId>
+            <subject>CS</subject>
+            <code>194W</code>
+            <units>3</units>
+            <sectionNumber>01</sectionNumber>
+            <component>LEC</component>
+            <numEnrolled>94</numEnrolled>
+            <maxEnrolled>9999</maxEnrolled>
+            <numWaitlist>0</numWaitlist>
+            <maxWaitlist>0</maxWaitlist>
+            <enrollStatus>Open</enrollStatus>
+            <addConsent>N</addConsent>
+            <dropConsent>N</dropConsent>
+            <instructionMode>P</instructionMode>
+            <courseId>211164</courseId>
+            <schedules>
+
+                <schedule>
+
+                    <startDate>Jan 3, 2022</startDate>
+                    <endDate>Mar 11, 2022</endDate>
+                    <startTime>2:45:00 PM</startTime>
+                    <endTime>3:45:00 PM</endTime>
+                    <location>Hewlett Teaching Center 200</location>
+                    <days>
+                        
+                        Monday
+                        
+                        Wednesday
+                        
+                        
+                        
+                    </days>
+                    <instructors>
+
+                        <instructor>
+                            <name>Borenstein, J.</name>
+                            <firstName>Jay</firstName>
+                            <middleName>Brian</middleName>
+                            <lastName>Borenstein</lastName>
+                            <sunet>gretzky</sunet>
+                            <role>PI</role>
+                        </instructor>
+
+                        <instructor>
+                            <name>McCoy, E.</name>
+                            <firstName>Erin</firstName>
+                            <middleName>Grainne</middleName>
+                            <lastName>McCoy</lastName>
+                            <sunet>emccoy</sunet>
+                            <role>GP</role>
+                        </instructor>
+
+                        <instructor>
+                            <name>Yeung, J.</name>
+                            <firstName>Jessica</firstName>
+                            <middleName>Nicole</middleName>
+                            <lastName>Yeung</lastName>
+                            <sunet>jyeung27</sunet>
+                            <role>GP</role>
+                        </instructor>
+
+                        <instructor>
+                            <name>Subramanian, A.</name>
+                            <firstName>Arvind</firstName>
+                            <middleName></middleName>
+                            <lastName>Subramanian</lastName>
+                            <sunet>arvindvs</sunet>
+                            <role>GP</role>
+                        </instructor>
+
+                        <instructor>
+                            <name>Ding, C.</name>
+                            <firstName>Christina</firstName>
+                            <middleName></middleName>
+                            <lastName>Ding</lastName>
+                            <sunet>cding21</sunet>
+                            <role>GP</role>
+                        </instructor>
+
+                        <instructor>
+                            <name>Kim, M.</name>
+                            <firstName>Minju</firstName>
+                            <middleName></middleName>
+                            <lastName>Kim</lastName>
+                            <sunet>minjukim</sunet>
+                            <role>GP</role>
+                        </instructor>
+
+                    </instructors>
+                </schedule>
+
+            </schedules>
+            <currentClassSize>94</currentClassSize>
+            <maxClassSize>9999</maxClassSize>
+            <currentWaitlistSize>0</currentWaitlistSize>
+            <maxWaitlistSize>0</maxWaitlistSize>
+            <notes>See CS194 for room location. CS undergraduates only. Satisfies WIM requirement. Students must enroll in either CS194 or 194W but NOT both.</notes>
+            <attributes>
+
+
+                <attribute>
+                    <name>NQTR</name>
+                    <value>SPR</value>
+                    <description>Spring</description>
+                    <catalogPrint>true</catalogPrint>
+                    <schedulePrint>false</schedulePrint>
+                </attribute>
+
+
+
+                <attribute>
+                    <name>NQTR</name>
+                    <value>WIN</value>
+                    <description>Winter</description>
+                    <catalogPrint>true</catalogPrint>
+                    <schedulePrint>false</schedulePrint>
+                </attribute>
+
+
+            </attributes>
+        </section>
+
+        <section>
+            <classId>7048</classId>
+            <term>2021-2022 Spring</term>
+            <termId>1226</termId>
+            <subject>CS</subject>
+            <code>194W</code>
+            <units>3</units>
+            <sectionNumber>01</sectionNumber>
+            <component>LEC</component>
+            <numEnrolled>74</numEnrolled>
+            <maxEnrolled>400</maxEnrolled>
+            <numWaitlist>0</numWaitlist>
+            <maxWaitlist>0</maxWaitlist>
+            <enrollStatus>Open</enrollStatus>
+            <addConsent>N</addConsent>
+            <dropConsent>N</dropConsent>
+            <instructionMode>P</instructionMode>
+            <courseId>211164</courseId>
+            <schedules>
+
+                <schedule>
+
+                    <startDate>Mar 28, 2022</startDate>
+                    <endDate>Jun 1, 2022</endDate>
+                    <startTime>12:15:00 PM</startTime>
+                    <endTime>1:15:00 PM</endTime>
+                    <location>Gates B1</location>
+                    <days>
+                        
+                        Monday
+                        
+                        Wednesday
+                        
+                        
+                        
+                    </days>
+                    <instructors>
+
+                        <instructor>
+                            <name>Borenstein, J.</name>
+                            <firstName>Jay</firstName>
+                            <middleName>Brian</middleName>
+                            <lastName>Borenstein</lastName>
+                            <sunet>gretzky</sunet>
+                            <role>PI</role>
+                        </instructor>
+
+                    </instructors>
+                </schedule>
+
+            </schedules>
+            <currentClassSize>74</currentClassSize>
+            <maxClassSize>400</maxClassSize>
+            <currentWaitlistSize>0</currentWaitlistSize>
+            <maxWaitlistSize>0</maxWaitlistSize>
+            <notes>CS undergraduates only. Satisfies WIM requirement. Students enroll in either CS194, or CS194W, not both. See CS194 for classroom location.</notes>
+            <attributes>
+
+
+                <attribute>
+                    <name>NQTR</name>
+                    <value>SPR</value>
+                    <description>Spring</description>
+                    <catalogPrint>true</catalogPrint>
+                    <schedulePrint>false</schedulePrint>
+                </attribute>
+
+
+
+                <attribute>
+                    <name>NQTR</name>
+                    <value>WIN</value>
+                    <description>Winter</description>
+                    <catalogPrint>true</catalogPrint>
+                    <schedulePrint>false</schedulePrint>
+                </attribute>
+
+
+            </attributes>
+        </section>
+
+    </sections>
+    <administrativeInformation>
+        <courseId>211164</courseId>
+        <effectiveStatus>A</effectiveStatus>
+        <offerNumber>1</offerNumber>
+        <academicGroup>ENGR</academicGroup>
+        <academicOrganization>COMPUTSCI</academicOrganization>
+        <academicCareer>UG</academicCareer>
+        <finalExamFlag>N</finalExamFlag>
+        <catalogPrint>Y</catalogPrint>
+        <schedulePrint>Y</schedulePrint>
+        <maxUnitsRepeat>3</maxUnitsRepeat>
+        <maxTimesRepeat>1</maxTimesRepeat>
+    </administrativeInformation>
+    <attributes>
+
+
+        <attribute>
+            <name>NQTR</name>
+            <value>SPR</value>
+            <description>Spring</description>
+            <catalogPrint>true</catalogPrint>
+            <schedulePrint>false</schedulePrint>
+        </attribute>
+
+
+
+        <attribute>
+            <name>NQTR</name>
+            <value>WIN</value>
+            <description>Winter</description>
+            <catalogPrint>true</catalogPrint>
+            <schedulePrint>false</schedulePrint>
+        </attribute>
+
+
+    </attributes>
+    <tags>
+
+        <tag>
+            <organization>SPBK</organization>
+            <name>3</name>
+        </tag>
+
+        <tag>
+            <organization>WIM</organization>
+            <name>cs</name>
+        </tag>
+
+        <tag>
+            <organization>WIM</organization>
+            <name>cseng</name>
+        </tag>
+
+        <tag>
+            <organization>WIM</organization>
+            <name>ee</name>
+        </tag>
+
+        <tag>
+            <organization>EDUC</organization>
+            <name>alluniversityabove100</name>
+        </tag>
+
+        <tag>
+            <organization>EDUC</organization>
+            <name>alluniversity</name>
+        </tag>
+
+    </tags>
+</course>
