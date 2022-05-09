@@ -70,7 +70,7 @@ def download_courses_from_connection(school: str, code: str, *filters: str,
     if not os.path.exists(f"{dir}/{school}/{code}.xml"):
         with open(f"{dir}/{school}/{code}.xml", "xb") as f:
             f.write(courses)
-    
+
     return courses
 
 
@@ -195,7 +195,7 @@ def create_schedule(all_courses):
     Args:
         all_courses (List):  A list of courses to choose from.
     """
-    
+
     def reset_file(filename):
         """ Resets the given file using the blank_schedule template.
 
@@ -256,17 +256,86 @@ def count_sections_and_schedules(all_courses):
             sched_lengths[num_scheds] = sched_lengths.get(num_scheds, 0) + 1
 
     print("Section lengths:")
-    print(pprint(section_lengths))
+    pprint(section_lengths)
     print("Schedule lengths:")
-    print(pprint(sched_lengths))
+    pprint(sched_lengths)
+
+
+def download_cs_courses(dir: str = "data"):
+    filters_set = {
+        filters.AUTUMN,
+        filters.WINTER,
+        filters.SPRING,
+        filters.SUMMER
+    }
+    filters_list = list(filters_set)
+    filters_list.append(f"filter-departmentcode-CS")
+
+    if not os.path.exists(f"{dir}"):
+        os.mkdir(f"{dir}")
+
+    if not os.path.exists(f"{dir}/CS"):
+        os.mkdir(f"{dir}/CS")
+
+    for i in range(1992, 2002):
+        year = f"{i}-{i + 1}"
+        print(year)
+        courses = get_courses_by_query_raw("CS", *filters_list, year=year)
+
+        with open(f"{dir}/CS/CS_{year}.xml", "xb") as f:
+            f.write(courses)
+
+
+def analyze_primary_schedules(all_courses):
+
+    for course in all_courses:
+        aut_count = {}
+        win_count = {}
+        spr_count = {}
+        sum_count = {}
+
+        for section in course.sections:
+            # TODO: we would like to skip courses that are closed
+            # if section.enrollStatus == "Closed":
+            #     continue
+            
+            term = section.term.split()[-1]
+            component = section.component
+
+            if term == "Autumn":
+                aut_count[component] = aut_count.get(component, 0) + 1
+            elif term == "Winter":
+                win_count[component] = win_count.get(component, 0) + 1
+            elif term == "Spring":
+                spr_count[component] = spr_count.get(component, 0) + 1
+            elif term == "Summer":
+                sum_count[component] = sum_count.get(component, 0) + 1
+
+        for quarter, dict in [("Aut", aut_count), ("Win", win_count), ("Spr", spr_count), ("Sum", sum_count)]:
+            unique_comp = ""
+            for comp, count in dict.items():
+                if count != 1:
+                    continue
+                if unique_comp == "" or unique_comp == "DIS":
+                    unique_comp = comp
+                    continue
+                elif comp == "DIS":
+                    continue
+                
+                print(f"{course.subject} {course.code} {quarter} ", end="")
+                print(f"Multiple unique comps: {unique_comp}, {comp}")
+                break
 
 
 if __name__ == "__main__":
     # Call this method once to save all the courses locally
     # download_all_courses()
-    
+
     # all_courses = get_all_courses_from_connection()
     all_courses = get_all_courses_from_downloads()
 
     # create_schedule(all_courses)
-    count_sections_and_schedules(all_courses)
+    # count_sections_and_schedules(all_courses)
+    analyze_primary_schedules(all_courses)
+
+    # download_cs_courses()
